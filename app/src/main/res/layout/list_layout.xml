@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="60dp"
+        android:src="@drawable/ramp_noplay"
+        android:scaleType="fitXY"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/clearRamp" />
+
+    <TextView
+        android:text=""
+        android:textSize="30dp"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:paddingBottom="5dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="5dp"
+        android:paddingTop="5dp"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/clearRamp"
+        android:layout_toEndOf="@+id/clearRamp"
+        android:id="@+id/list_difficulty" />
+
+    <TextView
+        android:text=""
+        android:textSize="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:paddingBottom="5dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="5dp"
+        android:paddingTop="5dp"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/list_difficulty"
+        android:layout_toEndOf="@+id/list_difficulty"
+        android:id="@+id/list_title" />
+
+</RelativeLayout>

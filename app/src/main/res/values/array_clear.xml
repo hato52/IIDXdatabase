@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clear_type">
+        <item>NO PLAY</item>
+        <item>FAILED</item>
+        <item>ASSIST CLEAR</item>
+        <item>EASY CLEAR</item>
+        <item>CLEAR</item>
+        <item>HARD CLEAR</item>
+        <item>EX HARD CLEAR</item>
+        <item>FULLCOMBO CLEAR</item>
+    </string-array>
+</resources>

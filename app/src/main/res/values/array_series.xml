@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="series">
+        <item>1st&amp;substream</item>
+        <item>2nd style</item>
+        <item>3rd style</item>
+        <item>4th style</item>
+        <item>5th style</item>
+        <item>6th style</item>
+        <item>7th style</item>
+        <item>8th style</item>
+        <item>9th style</item>
+        <item>10th style</item>
+        <item>IIDX RED</item>
+        <item>HAPPY SKY</item>
+        <item>DistorteD</item>
+        <item>GOLD</item>
+        <item>DJ TROOPERS</item>
+        <item>EMPRESS</item>
+        <item>SIRIUS</item>
+        <item>Resort Anthem</item>
+        <item>Lincle</item>
+        <item>tricoro</item>
+        <item>SPADA</item>
+        <item>PENDUAL</item>
+        <item>copula</item>
+        <item>SINOBUZ</item>
+    </string-array>
+</resources>
